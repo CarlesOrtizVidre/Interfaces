@@ -1,0 +1,21 @@
+Hola profesor.
+
+Te voy a contar los diferentes problemas que he tenido (los q he podido
+solucionar y los que no)
+
+1º Problema: La imagen nobia como se tenia que importar, y cuando encontre por 
+Internet la solucion salio el 2º problema.
+
+2º Problema: El Android Studio no detectaba la imagen, lo investigue y resulto ser
+problema del formato de la imagen (yo la tenia en png y el studio solo
+la detecta si esta en .jpg)
+
+3º Problema: Cuando le doy a ejecutar la aplicacion me abre una nueva ventana, con
+lam imagen en grande y en lo movil no cambia nada (no me sale ningun error).
+
+4º Veo tonto seguir con la practica si no va salir como en el tutorial
+
+Gracias.
+
+
+Carles Ortiz Vidre
